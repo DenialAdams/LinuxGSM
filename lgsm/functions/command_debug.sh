@@ -6,7 +6,7 @@
 # Description: Runs the server without tmux and directly from the terminal.
 
 commandname="DEBUG"
-commandaction="Debuging"
+commandaction="Debugging"
 functionselfname="$(basename "$(readlink -f "${BASH_SOURCE[0]}")")"
 fn_firstcommand_set
 
